@@ -30,7 +30,7 @@ To speed up the process, I recommend downloading* the following software on your
 ### Github Instruction
 https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
 
-### Instructions
+### Setup Instructions
 1. Installed hypervisor.
 - If hardware availability, select separate physical drive for installation source.
 - Launch preferred OS
@@ -39,6 +39,9 @@ https://docs.github.com/en/get-started/getting-started-with-git/setting-your-use
 2. Install Code Editor
 3. Setup personal GitHub Account
 4. Join https://github.com/afcea-uk-eastanglia
+
+### Webpage Reference
+- index.html under sites in the main homepage.
 
 **Happy Learning!**
 
