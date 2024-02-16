@@ -2,9 +2,7 @@
 title: AFCEA
 subtitle: 
 email: youremailaddress@gmail.com
-description: To the Armed Forces Communication and Electronics Association (AFCEA) United Kingdom (UK) East Anglia Chapter managed by:<br />
-					- RAF Mildenhall<br />
-					- RAF Lakenheath
+description: To the Armed Forces Communication and Electronics Association (AFCEA) United Kingdom (UK) East Anglia Chapter managed by:<br /> - RAF Mildenhall<br /> - RAF Lakenheath
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
