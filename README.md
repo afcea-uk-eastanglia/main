@@ -5,7 +5,6 @@ To our local page webpage for the AFCEA UK Chapter covering both RAF Mildenhall 
 
 ### Lab Development Tools
 
-
 Join us to learn the process of building a website using the Jekyll framework. In this first meeting we'll go over setting up your development tools, creating your virtual environment and initial setup of your own GitHub account. 
 
 To speed up the process, I recommend downloading* the following software on your personal computer.
@@ -27,6 +26,9 @@ To speed up the process, I recommend downloading* the following software on your
 | Visual Code (choose version based on OS above) | https://code.visualstudio.com/ |
 | Notepad+ | https://notepad-plus-plus.org/ |
 
+
+### Github Instruction
+https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
 
 ### Instructions
 1. Installed hypervisor.
