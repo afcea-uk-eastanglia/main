@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Where we've been
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Previous events and offerings the local<br />chapter has been a part of.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

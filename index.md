@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'AFCEA East Anglia'
+landing-title: 'Welcome'
 description: null
 image: null
 author: null

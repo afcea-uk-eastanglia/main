@@ -1,13 +1,13 @@
 # AFCEA UK East Anglia Chapter
 
 ## Weclome
-To our local page webpage for the AFCEA UK Chapter covering both RAF Mildenhall and RAF Lakenheath. This page is still in development, please comeback soon! :)
+To our local webpage for the AFCEA UK Chapter covering both RAF Mildenhall and RAF Lakenheath. This page is still in development, please comeback soon! :)
 
 ### Lab Development Tools
 
-Join us to learn the process of building a website using the Jekyll framework. In this first meeting we'll go over setting up your development tools, creating your virtual environment and initial setup of your own GitHub account. 
+Join us to learn the process of building a website using the Jekyll framework. In these meetings we will continue building and configuring the site. If this is your first time joining, Welcome! we will go over setting up your development tools, creating your virtual environment and initial setup of your own GitHub account. 
 
-To speed up the process, I recommend downloading* the following software on your personal computer.
+To begin the learning process and speed up the initial setup phase of your development journey with us, I recommend downloading* the following software on your personal computer.
 
 | Software Hypervisor / Type-II Hypervisor | Link |
 |------------------------------------------|------|
