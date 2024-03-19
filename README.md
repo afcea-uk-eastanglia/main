@@ -45,6 +45,12 @@ https://docs.github.com/en/get-started/getting-started-with-git/setting-your-use
 
 **Happy Learning!**
 
+once the page is opened in your visual studios development environment type the following to load the page on your local machine:
+
+```bash
+bundle exec jekyll s
+```
+
 ---
 
 # Forty - Jekyll Theme
