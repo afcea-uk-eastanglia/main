@@ -1,7 +1,7 @@
 ---
 title: Where we've been
 layout: landing
-description: Previous events and offerings the local<br />chapter has been a part of.'
+description: Previous events and offerings.
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
